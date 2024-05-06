@@ -95,7 +95,7 @@ The Airline Tweets dataset consists of tweets related to various airlines, along
 
 1. Clone the repository:
    ```
-   git clone https://github.com/<username>/naive-bayes-classifier.git
+   git clone https://github.com/ujjwol112/naive-bayes-classifier.git
    ```
 2. Navigate to the repository directory:
    ```
