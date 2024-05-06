@@ -17,7 +17,7 @@ Naive Bayes classifiers are a family of probabilistic classifiers based on Bayes
 
 ## Datasets
 
--- Titanic Dataset
+### Titanic Dataset
 The Titanic dataset contains information about passengers aboard the Titanic, including their demographics and whether they survived the disaster. This dataset is used for binary classification to predict passenger survival based on features such as gender, age, fare, and passenger class.
 
 ### Features:
@@ -44,7 +44,7 @@ The Titanic dataset contains information about passengers aboard the Titanic, in
 - **Feature Importance**: Identifying the most important features for predicting passenger survival and understanding their significance in determining survival outcomes.
 - **Model Evaluation**: Performance of classification models, such as Gaussian Naive Bayes, is evaluated using metrics like accuracy, precision, recall, and F1-score to assess their effectiveness in predicting passenger survival.
 
--- Airline Tweets Dataset
+### Airline Tweets Dataset
 
 The Airline Tweets dataset consists of tweets related to various airlines, along with sentiment labels indicating whether the tweet expresses positive, neutral, or negative sentiment towards the airline. This dataset is used for multi-class classification to predict sentiment based on the text of the tweets and other features such as confidence scores and airline.
 
