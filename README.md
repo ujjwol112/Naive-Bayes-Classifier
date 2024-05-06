@@ -9,8 +9,7 @@ This repository contains implementations of Naive Bayes classifiers for sentimen
 2. [Datasets](#datasets)
 3. [Description](#description)
 4. [Results](#results)
-5. [Unique Insights](#unique-insights)
-6. [Usage](#usage)
+5. [Usage](#usage)
 
 ## Introduction
 
@@ -91,11 +90,6 @@ The Airline Tweets dataset consists of tweets related to various airlines, along
 - Multiple Naive Bayes classifiers are trained and evaluated for sentiment analysis on airline tweets.
 - The classifiers achieve varying accuracies and performance metrics for predicting sentiment.
 - A hybrid Naive Bayes classifier combining Gaussian and Multinomial classifiers with different feature sets is implemented and evaluated for improved performance.
-
-## Unique Insights
-
-- The Titanic dataset analysis provides insights into factors influencing passenger survival rates, such as gender, age, and passenger class.
-- The Airline Tweets dataset analysis reveals trends in customer sentiment towards different airlines, which can inform airline companies' customer service and marketing strategies.
 
 ## Usage
 
